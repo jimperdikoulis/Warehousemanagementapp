@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Διαχείριση Αποθήκης</string>
+    <string name="welcome_message">Καλώς ήρθατε στην Εφαρμογή Διαχείρισης Αποθήκης</string>
+    <string name="login">Σύνδεση</string>
+    <string name="logout">Αποσύνδεση</string>
+    <string name="inventory">Αποθέματα</string>
+    <string name="settings">Ρυθμίσεις</string>
+</resources>
